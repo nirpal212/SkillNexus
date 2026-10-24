@@ -1005,7 +1005,7 @@ function Login() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/api/login",
+        "https://skillnexus-backend-yfo1.onrender.com/api/login",
         {
           method: "POST",
           headers: {
@@ -1162,7 +1162,7 @@ function IndustryDashboard() {
     }
 
     fetch(
-      `http://127.0.0.1:5000/api/industry/dashboard/${industryId}`
+      `https://skillnexus-backend-yfo1.onrender.com/api/industry/dashboard/${industryId}`
     )
       .then((response) => response.json())
       .then((data) => {
@@ -1641,7 +1641,7 @@ function IndustryPostOpportunity() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/api/industry/opportunities",
+        "https://skillnexus-backend-yfo1.onrender.com/api/industry/opportunities",
         {
           method: "POST",
           headers: {
@@ -1904,7 +1904,7 @@ function IndustryOpportunities() {
     }
 
     fetch(
-      `http://127.0.0.1:5000/api/industry/opportunities/${industryId}`
+      `https://skillnexus-backend-yfo1.onrender.com/api/industry/opportunities/${industryId}`
     )
       .then(async (response) => {
         const data = await response.json();
@@ -2078,7 +2078,7 @@ function Dashboard() {
       try {
         // 1. Get skill gap data
         const skillResponse = await fetch(
-          `http://127.0.0.1:5000/api/skill-gap/${studentId}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/skill-gap/${studentId}`
         );
 
         const skillData = await skillResponse.json();
@@ -2095,7 +2095,7 @@ function Dashboard() {
 
         // 2. Get learning progress
         const progressResponse = await fetch(
-          `http://127.0.0.1:5000/api/learning-progress/${studentId}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/learning-progress/${studentId}`
         );
 
         const progressData =
@@ -2119,7 +2119,7 @@ function Dashboard() {
 
         // 3. Get opportunities
         const opportunityResponse = await fetch(
-          `http://127.0.0.1:5000/api/opportunities/${studentId}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/opportunities/${studentId}`
         );
 
         const opportunityData =
@@ -2553,7 +2553,7 @@ function SkillGap() {
     try {
       // Update latest skills and career goal in backend first
       const updateResponse = await fetch(
-        `http://127.0.0.1:5000/api/students/${studentId}`,
+        `https://skillnexus-backend-yfo1.onrender.com/api/students/${studentId}`,
         {
           method: "PUT",
           headers: {
@@ -2579,7 +2579,7 @@ function SkillGap() {
 
       // Get skill gap analysis from backend
       const response = await fetch(
-        `http://127.0.0.1:5000/api/skill-gap/${studentId}`
+        `https://skillnexus-backend-yfo1.onrender.com/api/skill-gap/${studentId}`
       );
 
       const data = await response.json();
@@ -2975,7 +2975,7 @@ function Learning() {
         // -----------------------------------------------
 
         const response = await fetch(
-          `http://127.0.0.1:5000/api/learning-recommendations/${studentId}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/learning-recommendations/${studentId}`
         );
 
         const data = await response.json();
@@ -3007,7 +3007,7 @@ function Learning() {
         // -----------------------------------------------
 
         const progressResponse = await fetch(
-          `http://127.0.0.1:5000/api/learning-progress/${studentId}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/learning-progress/${studentId}`
         );
 
         if (progressResponse.ok) {
@@ -3111,7 +3111,7 @@ function Learning() {
     try {
 
       const response = await fetch(
-        `http://127.0.0.1:5000/api/learning-progress/${studentId}`,
+        `https://skillnexus-backend-yfo1.onrender.com/api/learning-progress/${studentId}`,
         {
           method: "PUT",
 
@@ -3836,7 +3836,7 @@ function AICareerAdvisor() {
       const loadAdvisor = async () => {
         try {
           const response = await fetch(
-            `http://127.0.0.1:5000/api/ai-career-advisor/${studentId}`
+            `https://skillnexus-backend-yfo1.onrender.com/api/ai-career-advisor/${studentId}`
           );
 
           const data = await response.json();
@@ -4684,7 +4684,7 @@ function Opportunities() {
       const loadOpportunities = async () => {
         try {
           const response = await fetch(
-            `http://127.0.0.1:5000/api/opportunities/${id}`
+            `https://skillnexus-backend-yfo1.onrender.com/api/opportunities/${id}`
           );
 
           const data = await response.json();
@@ -4952,7 +4952,7 @@ function Profile() {
 
     try {
       const response = await fetch(
-        `http://127.0.0.1:5000/api/students/${studentId}`,
+        `https://skillnexus-backend-yfo1.onrender.com/api/students/${studentId}`,
         {
           method: "PUT",
           headers: {
@@ -5110,7 +5110,7 @@ function FacultyDashboard() {
 
       try {
         const response = await fetch(
-          `http://127.0.0.1:5000/api/faculty/${facultyData.faculty_id}/students`
+          `https://skillnexus-backend-yfo1.onrender.com/api/faculty/${facultyData.faculty_id}/students`
         );
 
         const data = await response.json();
@@ -5147,7 +5147,7 @@ function FacultyDashboard() {
 
       try {
         const response = await fetch(
-          `http://127.0.0.1:5000/api/faculty/${facultyData.faculty_id}/monitoring-summary`
+          `https://skillnexus-backend-yfo1.onrender.com/api/faculty/${facultyData.faculty_id}/monitoring-summary`
         );
 
         const data = await response.json();
@@ -5630,7 +5630,7 @@ function FacultyStudentDetails() {
 
       try {
         const response = await fetch(
-          `http://127.0.0.1:5000/api/skill-gap/${student.student_id}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/skill-gap/${student.student_id}`
         );
 
         const data = await response.json();
@@ -5720,7 +5720,7 @@ function FacultyStudentDetails() {
 
       try {
         const response = await fetch(
-          `http://127.0.0.1:5000/api/faculty/student/${student.student_id}/learning-progress`
+          `https://skillnexus-backend-yfo1.onrender.com/api/faculty/student/${student.student_id}/learning-progress`
         );
 
         const data = await response.json();
@@ -6595,7 +6595,7 @@ function FacultyLogin() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/api/faculty/login",
+        "https://skillnexus-backend-yfo1.onrender.com/api/faculty/login",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -6700,7 +6700,7 @@ function FacultySignup() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/api/faculty/signup",
+        "https://skillnexus-backend-yfo1.onrender.com/api/faculty/signup",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
@@ -6872,7 +6872,7 @@ function CareerRecommendations() {
     const fetchRecommendations = async () => {
       try {
         const response = await fetch(
-          `http://127.0.0.1:5000/api/career-recommendations/${studentId}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/career-recommendations/${studentId}`
         );
 
         const data = await response.json();
@@ -7364,7 +7364,7 @@ function CareerDetails() {
     const fetchCareerDetails = async () => {
       try {
         const response = await fetch(
-          `http://127.0.0.1:5000/api/career-recommendations/${studentId}`
+          `https://skillnexus-backend-yfo1.onrender.com/api/career-recommendations/${studentId}`
         );
 
         const data = await response.json();
@@ -7824,7 +7824,7 @@ function IndustrySignup() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/api/industry/signup",
+        "https://skillnexus-backend-yfo1.onrender.com/api/industry/signup",
         {
           method: "POST",
           headers: {
@@ -8047,7 +8047,7 @@ function IndustryLogin() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/api/industry/login",
+        "https://skillnexus-backend-yfo1.onrender.com/api/industry/login",
         {
           method: "POST",
           headers: {
