@@ -1,0 +1,26 @@
+
+# Node.js dependencies and build output
+node_modules/
+dist/
+build/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Secrets and environment settings
+.env
+.env.*
+!.env.example
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+*backup*
+
+# Editor and operating system files
+.vscode/
+.DS_Store

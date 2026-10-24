@@ -1,0 +1,376 @@
+career_role,skill,category,importance,skill_level,learning_topic,learning_priority
+Full Stack Developer,HTML,Technical,High,Intermediate,HTML Fundamentals,1
+Full Stack Developer,CSS,Technical,High,Intermediate,CSS Fundamentals,1
+Full Stack Developer,JavaScript,Programming,High,Intermediate,JavaScript Fundamentals,1
+Full Stack Developer,React,Technical,High,Intermediate,React Fundamentals,2
+Full Stack Developer,Node.js,Professional,High,Intermediate,Node.js Fundamentals,2
+Full Stack Developer,Express.js,Technical,High,Intermediate,Express.js Fundamentals,2
+Full Stack Developer,SQL,Database,High,Intermediate,SQL Fundamentals,3
+Full Stack Developer,REST API,Technical,Medium,Intermediate,REST API Fundamentals,3
+Full Stack Developer,Git,Tools,Medium,Beginner,Git Fundamentals,3
+Full Stack Developer,GitHub,Tools,Medium,Beginner,GitHub Fundamentals,4
+Full Stack Developer,Python,Programming,Medium,Beginner,Python Fundamentals,4
+Full Stack Developer,Authentication,Professional,Medium,Beginner,Authentication Fundamentals,4
+Full Stack Developer,MongoDB,Database,Medium,Beginner,MongoDB Fundamentals,5
+Full Stack Developer,Docker,Cloud,Medium,Beginner,Docker Fundamentals,5
+Full Stack Developer,Deployment,Professional,Medium,Beginner,Deployment Fundamentals,5
+Frontend Developer,HTML,Technical,High,Intermediate,HTML Fundamentals,1
+Frontend Developer,CSS,Technical,High,Intermediate,CSS Fundamentals,1
+Frontend Developer,JavaScript,Programming,High,Intermediate,JavaScript Fundamentals,1
+Frontend Developer,React,Technical,High,Intermediate,React Fundamentals,2
+Frontend Developer,TypeScript,Programming,High,Intermediate,TypeScript Fundamentals,2
+Frontend Developer,Responsive Design,Professional,High,Intermediate,Responsive Design Fundamentals,2
+Frontend Developer,Git,Tools,Medium,Beginner,Git Fundamentals,3
+Frontend Developer,GitHub,Tools,Medium,Beginner,GitHub Fundamentals,3
+Frontend Developer,REST API,Technical,Medium,Beginner,REST API Fundamentals,3
+Frontend Developer,Bootstrap,Technical,Medium,Beginner,Bootstrap Fundamentals,4
+Frontend Developer,Tailwind CSS,Technical,Medium,Beginner,Tailwind CSS Fundamentals,4
+Frontend Developer,Web Accessibility,Professional,Medium,Beginner,Web Accessibility Fundamentals,4
+Frontend Developer,UI/UX Basics,Professional,Medium,Beginner,UI/UX Basics Fundamentals,5
+Frontend Developer,Testing,Technical,Medium,Beginner,Testing Fundamentals,5
+Frontend Developer,Performance Optimization,Professional,Medium,Beginner,Performance Optimization Fundamentals,5
+Backend Developer,Python,Programming,High,Intermediate,Python Fundamentals,1
+Backend Developer,Java,Programming,High,Intermediate,Java Fundamentals,1
+Backend Developer,Node.js,Professional,High,Intermediate,Node.js Fundamentals,1
+Backend Developer,Express.js,Technical,High,Intermediate,Express.js Fundamentals,2
+Backend Developer,SQL,Database,High,Intermediate,SQL Fundamentals,2
+Backend Developer,REST API,Technical,High,Intermediate,REST API Fundamentals,2
+Backend Developer,Git,Tools,Medium,Beginner,Git Fundamentals,3
+Backend Developer,GitHub,Tools,Medium,Beginner,GitHub Fundamentals,3
+Backend Developer,Authentication,Professional,High,Intermediate,Authentication Fundamentals,3
+Backend Developer,JWT,Professional,Medium,Beginner,JWT Fundamentals,4
+Backend Developer,MongoDB,Database,Medium,Beginner,MongoDB Fundamentals,4
+Backend Developer,Redis,Database,Medium,Beginner,Redis Fundamentals,4
+Backend Developer,Docker,Cloud,Medium,Beginner,Docker Fundamentals,5
+Backend Developer,Linux,Professional,Medium,Intermediate,Linux Fundamentals,5
+Backend Developer,API Testing,Technical,Medium,Beginner,API Testing Fundamentals,5
+Python Developer,Python,Programming,High,Intermediate,Python Fundamentals,1
+Python Developer,OOP,Programming,High,Intermediate,OOP Fundamentals,1
+Python Developer,Data Structures,Programming,High,Intermediate,Data Structures Fundamentals,1
+Python Developer,SQL,Database,High,Intermediate,SQL Fundamentals,2
+Python Developer,Git,Tools,Medium,Beginner,Git Fundamentals,2
+Python Developer,GitHub,Tools,Medium,Beginner,GitHub Fundamentals,3
+Python Developer,Flask,Technical,High,Intermediate,Flask Fundamentals,3
+Python Developer,Django,Technical,High,Intermediate,Django Fundamentals,3
+Python Developer,REST API,Technical,High,Intermediate,REST API Fundamentals,4
+Python Developer,Pytest,Tools,Medium,Beginner,Pytest Fundamentals,4
+Python Developer,Pandas,Analytics,Medium,Beginner,Pandas Fundamentals,4
+Python Developer,NumPy,Professional,Medium,Beginner,NumPy Fundamentals,5
+Python Developer,Virtual Environments,Professional,Medium,Beginner,Virtual Environments Fundamentals,5
+Python Developer,Linux,Professional,Medium,Intermediate,Linux Fundamentals,5
+Python Developer,Debugging,Professional,Medium,Beginner,Debugging Fundamentals,5
+Java Developer,Java,Programming,High,Intermediate,Java Fundamentals,1
+Java Developer,OOP,Programming,High,Intermediate,OOP Fundamentals,1
+Java Developer,Data Structures,Programming,High,Intermediate,Data Structures Fundamentals,1
+Java Developer,SQL,Database,High,Intermediate,SQL Fundamentals,2
+Java Developer,Spring Boot,Technical,High,Intermediate,Spring Boot Fundamentals,2
+Java Developer,REST API,Technical,High,Intermediate,REST API Fundamentals,2
+Java Developer,Git,Tools,Medium,Beginner,Git Fundamentals,3
+Java Developer,GitHub,Tools,Medium,Beginner,GitHub Fundamentals,3
+Java Developer,Hibernate,Professional,Medium,Beginner,Hibernate Fundamentals,4
+Java Developer,Maven,Tools,Medium,Beginner,Maven Fundamentals,4
+Java Developer,JUnit,Tools,Medium,Beginner,JUnit Fundamentals,4
+Java Developer,Microservices,Professional,Medium,Beginner,Microservices Fundamentals,5
+Java Developer,Docker,Cloud,Medium,Beginner,Docker Fundamentals,5
+Java Developer,Linux,Professional,Medium,Intermediate,Linux Fundamentals,5
+Java Developer,Debugging,Professional,Medium,Beginner,Debugging Fundamentals,5
+Data Analyst,Python,Programming,High,Intermediate,Python Fundamentals,1
+Data Analyst,SQL,Database,High,Intermediate,SQL Fundamentals,1
+Data Analyst,Excel,Analytics,High,Intermediate,Excel Fundamentals,1
+Data Analyst,Pandas,Professional,High,Intermediate,Pandas Fundamentals,2
+Data Analyst,NumPy,Professional,High,Intermediate,NumPy Fundamentals,2
+Data Analyst,Statistics,Professional,High,Intermediate,Statistics Fundamentals,2
+Data Analyst,Data Visualization,Professional,High,Intermediate,Data Visualization Fundamentals,3
+Data Analyst,Power BI,Analytics,Medium,Intermediate,Power BI Fundamentals,3
+Data Analyst,Tableau,Analytics,Medium,Intermediate,Tableau Fundamentals,3
+Data Analyst,Data Cleaning,Analytics,Medium,Beginner,Data Cleaning Fundamentals,4
+Data Analyst,Git,Tools,Medium,Beginner,Git Fundamentals,4
+Data Analyst,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,4
+Data Analyst,Critical Thinking,Soft Skill,Medium,Beginner,Critical Thinking Fundamentals,5
+Data Analyst,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Data Analyst,Presentation,Soft Skill,Medium,Beginner,Presentation Fundamentals,5
+Data Scientist,Python,Programming,High,Intermediate,Python Fundamentals,1
+Data Scientist,SQL,Database,High,Intermediate,SQL Fundamentals,1
+Data Scientist,Statistics,Professional,High,Intermediate,Statistics Fundamentals,1
+Data Scientist,Probability,Professional,High,Intermediate,Probability Fundamentals,2
+Data Scientist,Pandas,Professional,High,Intermediate,Pandas Fundamentals,2
+Data Scientist,NumPy,Professional,High,Intermediate,NumPy Fundamentals,2
+Data Scientist,Machine Learning,AI,High,Intermediate,Machine Learning Fundamentals,3
+Data Scientist,Data Visualization,Professional,High,Intermediate,Data Visualization Fundamentals,3
+Data Scientist,Feature Engineering,AI,Medium,Intermediate,Feature Engineering Fundamentals,3
+Data Scientist,Scikit-learn,AI,Medium,Beginner,Scikit-learn Fundamentals,4
+Data Scientist,Deep Learning,AI,Medium,Beginner,Deep Learning Fundamentals,4
+Data Scientist,Git,Tools,Medium,Beginner,Git Fundamentals,4
+Data Scientist,Jupyter,Tools,Medium,Beginner,Jupyter Fundamentals,5
+Data Scientist,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Data Scientist,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+AI/ML Engineer,Python,Programming,High,Intermediate,Python Fundamentals,1
+AI/ML Engineer,Machine Learning,AI,High,Intermediate,Machine Learning Fundamentals,1
+AI/ML Engineer,Deep Learning,AI,High,Intermediate,Deep Learning Fundamentals,1
+AI/ML Engineer,NumPy,Professional,High,Intermediate,NumPy Fundamentals,2
+AI/ML Engineer,Pandas,Professional,High,Intermediate,Pandas Fundamentals,2
+AI/ML Engineer,Scikit-learn,AI,High,Intermediate,Scikit-learn Fundamentals,2
+AI/ML Engineer,TensorFlow,AI,High,Intermediate,TensorFlow Fundamentals,3
+AI/ML Engineer,PyTorch,AI,High,Intermediate,PyTorch Fundamentals,3
+AI/ML Engineer,Statistics,Professional,Medium,Intermediate,Statistics Fundamentals,3
+AI/ML Engineer,SQL,Database,Medium,Beginner,SQL Fundamentals,4
+AI/ML Engineer,Git,Tools,Medium,Beginner,Git Fundamentals,4
+AI/ML Engineer,Docker,Cloud,Medium,Beginner,Docker Fundamentals,4
+AI/ML Engineer,MLOps,AI,Medium,Beginner,MLOps Fundamentals,5
+AI/ML Engineer,NLP,AI,Medium,Beginner,NLP Fundamentals,5
+AI/ML Engineer,Computer Vision,AI,Medium,Beginner,Computer Vision Fundamentals,5
+DevOps Engineer,Linux,Professional,High,Intermediate,Linux Fundamentals,1
+DevOps Engineer,Git,Tools,High,Intermediate,Git Fundamentals,1
+DevOps Engineer,GitHub,Tools,High,Intermediate,GitHub Fundamentals,1
+DevOps Engineer,Docker,Cloud,High,Intermediate,Docker Fundamentals,2
+DevOps Engineer,Kubernetes,Cloud,High,Intermediate,Kubernetes Fundamentals,2
+DevOps Engineer,CI/CD,Cloud,High,Intermediate,CI/CD Fundamentals,2
+DevOps Engineer,AWS,Cloud,High,Intermediate,AWS Fundamentals,3
+DevOps Engineer,Azure,Cloud,High,Intermediate,Azure Fundamentals,3
+DevOps Engineer,Terraform,Cloud,High,Intermediate,Terraform Fundamentals,3
+DevOps Engineer,Jenkins,Tools,Medium,Beginner,Jenkins Fundamentals,4
+DevOps Engineer,Python,Programming,Medium,Beginner,Python Fundamentals,4
+DevOps Engineer,Networking,Professional,Medium,Beginner,Networking Fundamentals,4
+DevOps Engineer,Bash,Programming,Medium,Beginner,Bash Fundamentals,5
+DevOps Engineer,Monitoring,Cloud,Medium,Beginner,Monitoring Fundamentals,5
+DevOps Engineer,Security,Security,Medium,Beginner,Security Fundamentals,5
+Cybersecurity Analyst,Networking,Professional,High,Intermediate,Networking Fundamentals,1
+Cybersecurity Analyst,Linux,Professional,High,Intermediate,Linux Fundamentals,1
+Cybersecurity Analyst,Python,Programming,High,Intermediate,Python Fundamentals,1
+Cybersecurity Analyst,Cybersecurity,Security,High,Intermediate,Cybersecurity Fundamentals,2
+Cybersecurity Analyst,Ethical Hacking,Security,High,Intermediate,Ethical Hacking Fundamentals,2
+Cybersecurity Analyst,SIEM,Security,High,Intermediate,SIEM Fundamentals,2
+Cybersecurity Analyst,Incident Response,Security,High,Intermediate,Incident Response Fundamentals,3
+Cybersecurity Analyst,Threat Analysis,Security,High,Intermediate,Threat Analysis Fundamentals,3
+Cybersecurity Analyst,Cryptography,Security,High,Intermediate,Cryptography Fundamentals,3
+Cybersecurity Analyst,Web Security,Security,Medium,Beginner,Web Security Fundamentals,4
+Cybersecurity Analyst,OWASP,Security,Medium,Beginner,OWASP Fundamentals,4
+Cybersecurity Analyst,Wireshark,Tools,Medium,Beginner,Wireshark Fundamentals,4
+Cybersecurity Analyst,Git,Tools,Medium,Beginner,Git Fundamentals,5
+Cybersecurity Analyst,Risk Assessment,Security,Medium,Beginner,Risk Assessment Fundamentals,5
+Cybersecurity Analyst,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+Software Engineer,Python,Programming,High,Intermediate,Python Fundamentals,1
+Software Engineer,Java,Programming,High,Intermediate,Java Fundamentals,1
+Software Engineer,Data Structures,Programming,High,Intermediate,Data Structures Fundamentals,1
+Software Engineer,Algorithms,Programming,High,Intermediate,Algorithms Fundamentals,2
+Software Engineer,OOP,Programming,High,Intermediate,OOP Fundamentals,2
+Software Engineer,SQL,Database,High,Intermediate,SQL Fundamentals,2
+Software Engineer,Git,Tools,High,Intermediate,Git Fundamentals,3
+Software Engineer,GitHub,Tools,High,Intermediate,GitHub Fundamentals,3
+Software Engineer,REST API,Technical,Medium,Beginner,REST API Fundamentals,3
+Software Engineer,Testing,Professional,Medium,Beginner,Testing Fundamentals,4
+Software Engineer,Debugging,Professional,Medium,Beginner,Debugging Fundamentals,4
+Software Engineer,System Design,Professional,Medium,Beginner,System Design Fundamentals,4
+Software Engineer,Linux,Professional,Medium,Beginner,Linux Fundamentals,5
+Software Engineer,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Software Engineer,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+Mobile App Developer,Java,Programming,High,Intermediate,Java Fundamentals,1
+Mobile App Developer,Kotlin,Programming,High,Intermediate,Kotlin Fundamentals,1
+Mobile App Developer,Flutter,Professional,High,Intermediate,Flutter Fundamentals,1
+Mobile App Developer,Dart,Programming,High,Intermediate,Dart Fundamentals,2
+Mobile App Developer,Android Studio,Tools,High,Intermediate,Android Studio Fundamentals,2
+Mobile App Developer,Firebase,Professional,High,Intermediate,Firebase Fundamentals,2
+Mobile App Developer,REST API,Technical,High,Intermediate,REST API Fundamentals,3
+Mobile App Developer,Git,Tools,High,Intermediate,Git Fundamentals,3
+Mobile App Developer,GitHub,Tools,High,Intermediate,GitHub Fundamentals,3
+Mobile App Developer,UI/UX Basics,Design,Medium,Beginner,UI/UX Basics Fundamentals,4
+Mobile App Developer,SQLite,Database,Medium,Beginner,SQLite Fundamentals,4
+Mobile App Developer,Testing,Professional,Medium,Beginner,Testing Fundamentals,4
+Mobile App Developer,App Security,Professional,Medium,Beginner,App Security Fundamentals,5
+Mobile App Developer,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Mobile App Developer,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+Android Developer,Kotlin,Programming,High,Intermediate,Kotlin Fundamentals,1
+Android Developer,Java,Programming,High,Intermediate,Java Fundamentals,1
+Android Developer,Android Studio,Tools,High,Intermediate,Android Studio Fundamentals,1
+Android Developer,Android SDK,Technical,High,Intermediate,Android SDK Fundamentals,2
+Android Developer,Jetpack Compose,Technical,High,Intermediate,Jetpack Compose Fundamentals,2
+Android Developer,Firebase,Professional,High,Intermediate,Firebase Fundamentals,2
+Android Developer,REST API,Technical,High,Intermediate,REST API Fundamentals,3
+Android Developer,Git,Tools,High,Intermediate,Git Fundamentals,3
+Android Developer,GitHub,Tools,High,Intermediate,GitHub Fundamentals,3
+Android Developer,SQLite,Database,Medium,Beginner,SQLite Fundamentals,4
+Android Developer,Material Design,Design,Medium,Beginner,Material Design Fundamentals,4
+Android Developer,Testing,Professional,Medium,Beginner,Testing Fundamentals,4
+Android Developer,App Security,Professional,Medium,Beginner,App Security Fundamentals,5
+Android Developer,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Android Developer,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+Data Engineer,Python,Programming,High,Intermediate,Python Fundamentals,1
+Data Engineer,SQL,Database,High,Intermediate,SQL Fundamentals,1
+Data Engineer,ETL,Professional,High,Intermediate,ETL Fundamentals,1
+Data Engineer,Data Warehousing,Database,High,Intermediate,Data Warehousing Fundamentals,2
+Data Engineer,Apache Spark,Professional,High,Intermediate,Apache Spark Fundamentals,2
+Data Engineer,Pandas,Professional,High,Intermediate,Pandas Fundamentals,2
+Data Engineer,AWS,Cloud,High,Intermediate,AWS Fundamentals,3
+Data Engineer,Azure,Cloud,High,Intermediate,Azure Fundamentals,3
+Data Engineer,Docker,Cloud,High,Intermediate,Docker Fundamentals,3
+Data Engineer,Airflow,Professional,Medium,Beginner,Airflow Fundamentals,4
+Data Engineer,Kafka,Professional,Medium,Beginner,Kafka Fundamentals,4
+Data Engineer,Linux,Professional,Medium,Beginner,Linux Fundamentals,4
+Data Engineer,Git,Tools,Medium,Beginner,Git Fundamentals,5
+Data Engineer,Data Modeling,Database,Medium,Beginner,Data Modeling Fundamentals,5
+Data Engineer,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Machine Learning Engineer,Python,Programming,High,Intermediate,Python Fundamentals,1
+Machine Learning Engineer,Machine Learning,AI,High,Intermediate,Machine Learning Fundamentals,1
+Machine Learning Engineer,Deep Learning,AI,High,Intermediate,Deep Learning Fundamentals,1
+Machine Learning Engineer,Scikit-learn,AI,High,Intermediate,Scikit-learn Fundamentals,2
+Machine Learning Engineer,TensorFlow,AI,High,Intermediate,TensorFlow Fundamentals,2
+Machine Learning Engineer,PyTorch,AI,High,Intermediate,PyTorch Fundamentals,2
+Machine Learning Engineer,Pandas,Professional,High,Intermediate,Pandas Fundamentals,3
+Machine Learning Engineer,NumPy,Professional,High,Intermediate,NumPy Fundamentals,3
+Machine Learning Engineer,Statistics,Professional,High,Intermediate,Statistics Fundamentals,3
+Machine Learning Engineer,Feature Engineering,AI,Medium,Beginner,Feature Engineering Fundamentals,4
+Machine Learning Engineer,MLOps,AI,Medium,Beginner,MLOps Fundamentals,4
+Machine Learning Engineer,Docker,Cloud,Medium,Beginner,Docker Fundamentals,4
+Machine Learning Engineer,Git,Tools,Medium,Beginner,Git Fundamentals,5
+Machine Learning Engineer,SQL,Database,Medium,Beginner,SQL Fundamentals,5
+Machine Learning Engineer,Model Deployment,AI,Medium,Beginner,Model Deployment Fundamentals,5
+Generative AI Engineer,Python,Programming,High,Intermediate,Python Fundamentals,1
+Generative AI Engineer,Machine Learning,AI,High,Intermediate,Machine Learning Fundamentals,1
+Generative AI Engineer,Deep Learning,AI,High,Intermediate,Deep Learning Fundamentals,1
+Generative AI Engineer,Generative AI,AI,High,Intermediate,Generative AI Fundamentals,2
+Generative AI Engineer,LLM,AI,High,Intermediate,LLM Fundamentals,2
+Generative AI Engineer,Prompt Engineering,AI,High,Intermediate,Prompt Engineering Fundamentals,2
+Generative AI Engineer,NLP,AI,High,Intermediate,NLP Fundamentals,3
+Generative AI Engineer,Transformers,AI,High,Intermediate,Transformers Fundamentals,3
+Generative AI Engineer,RAG,AI,High,Intermediate,RAG Fundamentals,3
+Generative AI Engineer,Vector Databases,Database,Medium,Beginner,Vector Databases Fundamentals,4
+Generative AI Engineer,APIs,Professional,Medium,Beginner,APIs Fundamentals,4
+Generative AI Engineer,Git,Tools,Medium,Beginner,Git Fundamentals,4
+Generative AI Engineer,Docker,Cloud,Medium,Beginner,Docker Fundamentals,5
+Generative AI Engineer,Evaluation,AI,Medium,Beginner,Evaluation Fundamentals,5
+Generative AI Engineer,AI Ethics,AI,Medium,Beginner,AI Ethics Fundamentals,5
+Cloud Engineer,AWS,Cloud,High,Intermediate,AWS Fundamentals,1
+Cloud Engineer,Azure,Cloud,High,Intermediate,Azure Fundamentals,1
+Cloud Engineer,GCP,Cloud,High,Intermediate,GCP Fundamentals,1
+Cloud Engineer,Linux,Professional,High,Intermediate,Linux Fundamentals,2
+Cloud Engineer,Networking,Professional,High,Intermediate,Networking Fundamentals,2
+Cloud Engineer,Docker,Cloud,High,Intermediate,Docker Fundamentals,2
+Cloud Engineer,Kubernetes,Cloud,High,Intermediate,Kubernetes Fundamentals,3
+Cloud Engineer,Terraform,Cloud,High,Intermediate,Terraform Fundamentals,3
+Cloud Engineer,CI/CD,Cloud,High,Intermediate,CI/CD Fundamentals,3
+Cloud Engineer,Git,Tools,Medium,Beginner,Git Fundamentals,4
+Cloud Engineer,Python,Programming,Medium,Beginner,Python Fundamentals,4
+Cloud Engineer,Security,Security,Medium,Beginner,Security Fundamentals,4
+Cloud Engineer,IAM,Professional,Medium,Beginner,IAM Fundamentals,5
+Cloud Engineer,Monitoring,Cloud,Medium,Beginner,Monitoring Fundamentals,5
+Cloud Engineer,Cost Optimization,Cloud,Medium,Beginner,Cost Optimization Fundamentals,5
+Cloud Architect,AWS,Cloud,High,Intermediate,AWS Fundamentals,1
+Cloud Architect,Azure,Cloud,High,Intermediate,Azure Fundamentals,1
+Cloud Architect,GCP,Cloud,High,Intermediate,GCP Fundamentals,1
+Cloud Architect,Networking,Professional,High,Intermediate,Networking Fundamentals,2
+Cloud Architect,Security,Security,High,Intermediate,Security Fundamentals,2
+Cloud Architect,Docker,Cloud,High,Intermediate,Docker Fundamentals,2
+Cloud Architect,Kubernetes,Cloud,High,Intermediate,Kubernetes Fundamentals,3
+Cloud Architect,Terraform,Cloud,High,Intermediate,Terraform Fundamentals,3
+Cloud Architect,System Design,Professional,High,Intermediate,System Design Fundamentals,3
+Cloud Architect,Microservices,Professional,Medium,Beginner,Microservices Fundamentals,4
+Cloud Architect,IAM,Professional,Medium,Beginner,IAM Fundamentals,4
+Cloud Architect,Monitoring,Cloud,Medium,Beginner,Monitoring Fundamentals,4
+Cloud Architect,Cost Optimization,Cloud,Medium,Beginner,Cost Optimization Fundamentals,5
+Cloud Architect,Linux,Professional,Medium,Beginner,Linux Fundamentals,5
+Cloud Architect,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+Security Engineer,Cybersecurity,Security,High,Intermediate,Cybersecurity Fundamentals,1
+Security Engineer,Networking,Professional,High,Intermediate,Networking Fundamentals,1
+Security Engineer,Linux,Professional,High,Intermediate,Linux Fundamentals,1
+Security Engineer,Python,Programming,High,Intermediate,Python Fundamentals,2
+Security Engineer,Cryptography,Security,High,Intermediate,Cryptography Fundamentals,2
+Security Engineer,Web Security,Security,High,Intermediate,Web Security Fundamentals,2
+Security Engineer,OWASP,Security,High,Intermediate,OWASP Fundamentals,3
+Security Engineer,SIEM,Security,High,Intermediate,SIEM Fundamentals,3
+Security Engineer,Incident Response,Security,High,Intermediate,Incident Response Fundamentals,3
+Security Engineer,Threat Analysis,Security,Medium,Beginner,Threat Analysis Fundamentals,4
+Security Engineer,Cloud Security,Cloud,Medium,Beginner,Cloud Security Fundamentals,4
+Security Engineer,IAM,Professional,Medium,Beginner,IAM Fundamentals,4
+Security Engineer,Docker,Cloud,Medium,Beginner,Docker Fundamentals,5
+Security Engineer,Git,Tools,Medium,Beginner,Git Fundamentals,5
+Security Engineer,Risk Assessment,Security,Medium,Beginner,Risk Assessment Fundamentals,5
+Ethical Hacker,Networking,Professional,High,Intermediate,Networking Fundamentals,1
+Ethical Hacker,Linux,Professional,High,Intermediate,Linux Fundamentals,1
+Ethical Hacker,Cybersecurity,Security,High,Intermediate,Cybersecurity Fundamentals,1
+Ethical Hacker,Ethical Hacking,Security,High,Intermediate,Ethical Hacking Fundamentals,2
+Ethical Hacker,Penetration Testing,Professional,High,Intermediate,Penetration Testing Fundamentals,2
+Ethical Hacker,Web Security,Security,High,Intermediate,Web Security Fundamentals,2
+Ethical Hacker,OWASP,Security,High,Intermediate,OWASP Fundamentals,3
+Ethical Hacker,Python,Programming,High,Intermediate,Python Fundamentals,3
+Ethical Hacker,Bash,Programming,High,Intermediate,Bash Fundamentals,3
+Ethical Hacker,Nmap,Tools,Medium,Beginner,Nmap Fundamentals,4
+Ethical Hacker,Wireshark,Tools,Medium,Beginner,Wireshark Fundamentals,4
+Ethical Hacker,Metasploit,Professional,Medium,Beginner,Metasploit Fundamentals,4
+Ethical Hacker,Cryptography,Security,Medium,Beginner,Cryptography Fundamentals,5
+Ethical Hacker,Burp Suite,Tools,Medium,Beginner,Burp Suite Fundamentals,5
+Ethical Hacker,Reporting,Professional,Medium,Beginner,Reporting Fundamentals,5
+SOC Analyst,Cybersecurity,Security,High,Intermediate,Cybersecurity Fundamentals,1
+SOC Analyst,Networking,Professional,High,Intermediate,Networking Fundamentals,1
+SOC Analyst,Linux,Professional,High,Intermediate,Linux Fundamentals,1
+SOC Analyst,SIEM,Security,High,Intermediate,SIEM Fundamentals,2
+SOC Analyst,Incident Response,Security,High,Intermediate,Incident Response Fundamentals,2
+SOC Analyst,Threat Analysis,Security,High,Intermediate,Threat Analysis Fundamentals,2
+SOC Analyst,Log Analysis,Professional,High,Intermediate,Log Analysis Fundamentals,3
+SOC Analyst,Python,Programming,High,Intermediate,Python Fundamentals,3
+SOC Analyst,Wireshark,Tools,High,Intermediate,Wireshark Fundamentals,3
+SOC Analyst,MITRE ATT&CK,Security,Medium,Beginner,MITRE ATT&CK Fundamentals,4
+SOC Analyst,Cyber Threat Intelligence,Security,Medium,Beginner,Cyber Threat Intelligence Fundamentals,4
+SOC Analyst,Firewalls,Security,Medium,Beginner,Firewalls Fundamentals,4
+SOC Analyst,EDR,Security,Medium,Beginner,EDR Fundamentals,5
+SOC Analyst,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+SOC Analyst,Critical Thinking,Soft Skill,Medium,Beginner,Critical Thinking Fundamentals,5
+UI/UX Designer,UI Design,Design,High,Intermediate,UI Design Fundamentals,1
+UI/UX Designer,UX Design,Design,High,Intermediate,UX Design Fundamentals,1
+UI/UX Designer,Figma,Design,High,Intermediate,Figma Fundamentals,1
+UI/UX Designer,Wireframing,Design,High,Intermediate,Wireframing Fundamentals,2
+UI/UX Designer,Prototyping,Design,High,Intermediate,Prototyping Fundamentals,2
+UI/UX Designer,User Research,Design,High,Intermediate,User Research Fundamentals,2
+UI/UX Designer,Usability Testing,Design,High,Intermediate,Usability Testing Fundamentals,3
+UI/UX Designer,Design Systems,Design,High,Intermediate,Design Systems Fundamentals,3
+UI/UX Designer,Typography,Design,High,Intermediate,Typography Fundamentals,3
+UI/UX Designer,Color Theory,Design,Medium,Beginner,Color Theory Fundamentals,4
+UI/UX Designer,Responsive Design,Professional,Medium,Beginner,Responsive Design Fundamentals,4
+UI/UX Designer,Accessibility,Design,Medium,Beginner,Accessibility Fundamentals,4
+UI/UX Designer,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+UI/UX Designer,Presentation,Soft Skill,Medium,Beginner,Presentation Fundamentals,5
+UI/UX Designer,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Product Designer,UI Design,Design,High,Intermediate,UI Design Fundamentals,1
+Product Designer,UX Design,Design,High,Intermediate,UX Design Fundamentals,1
+Product Designer,Figma,Design,High,Intermediate,Figma Fundamentals,1
+Product Designer,User Research,Design,High,Intermediate,User Research Fundamentals,2
+Product Designer,Prototyping,Design,High,Intermediate,Prototyping Fundamentals,2
+Product Designer,Design Systems,Design,High,Intermediate,Design Systems Fundamentals,2
+Product Designer,Usability Testing,Design,High,Intermediate,Usability Testing Fundamentals,3
+Product Designer,Product Thinking,Professional,High,Intermediate,Product Thinking Fundamentals,3
+Product Designer,Wireframing,Design,High,Intermediate,Wireframing Fundamentals,3
+Product Designer,Accessibility,Design,Medium,Beginner,Accessibility Fundamentals,4
+Product Designer,Analytics,Analytics,Medium,Beginner,Analytics Fundamentals,4
+Product Designer,A/B Testing,Analytics,Medium,Beginner,A/B Testing Fundamentals,4
+Product Designer,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,5
+Product Designer,Presentation,Soft Skill,Medium,Beginner,Presentation Fundamentals,5
+Product Designer,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+Business Analyst,SQL,Database,High,Intermediate,SQL Fundamentals,1
+Business Analyst,Excel,Professional,High,Intermediate,Excel Fundamentals,1
+Business Analyst,Power BI,Analytics,High,Intermediate,Power BI Fundamentals,1
+Business Analyst,Data Visualization,Analytics,High,Intermediate,Data Visualization Fundamentals,2
+Business Analyst,Business Analysis,Analytics,High,Intermediate,Business Analysis Fundamentals,2
+Business Analyst,Requirements Gathering,Professional,High,Intermediate,Requirements Gathering Fundamentals,2
+Business Analyst,Process Modeling,Professional,High,Intermediate,Process Modeling Fundamentals,3
+Business Analyst,UML,Professional,High,Intermediate,UML Fundamentals,3
+Business Analyst,Communication,Soft Skill,High,Intermediate,Communication Fundamentals,3
+Business Analyst,Presentation,Soft Skill,Medium,Beginner,Presentation Fundamentals,4
+Business Analyst,Critical Thinking,Soft Skill,Medium,Beginner,Critical Thinking Fundamentals,4
+Business Analyst,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,4
+Business Analyst,Stakeholder Management,Professional,Medium,Beginner,Stakeholder Management Fundamentals,5
+Business Analyst,Documentation,Professional,Medium,Beginner,Documentation Fundamentals,5
+Business Analyst,Project Management,Professional,Medium,Beginner,Project Management Fundamentals,5
+BI Analyst,SQL,Database,High,Intermediate,SQL Fundamentals,1
+BI Analyst,Excel,Professional,High,Intermediate,Excel Fundamentals,1
+BI Analyst,Power BI,Analytics,High,Intermediate,Power BI Fundamentals,1
+BI Analyst,Tableau,Analytics,High,Intermediate,Tableau Fundamentals,2
+BI Analyst,Data Visualization,Analytics,High,Intermediate,Data Visualization Fundamentals,2
+BI Analyst,Data Modeling,Database,High,Intermediate,Data Modeling Fundamentals,2
+BI Analyst,ETL,Professional,High,Intermediate,ETL Fundamentals,3
+BI Analyst,DAX,Professional,High,Intermediate,DAX Fundamentals,3
+BI Analyst,Python,Programming,High,Intermediate,Python Fundamentals,3
+BI Analyst,Statistics,Professional,Medium,Beginner,Statistics Fundamentals,4
+BI Analyst,Communication,Soft Skill,Medium,Beginner,Communication Fundamentals,4
+BI Analyst,Presentation,Soft Skill,Medium,Beginner,Presentation Fundamentals,4
+BI Analyst,Problem Solving,Soft Skill,Medium,Beginner,Problem Solving Fundamentals,5
+BI Analyst,Critical Thinking,Soft Skill,Medium,Beginner,Critical Thinking Fundamentals,5
+BI Analyst,Business Analysis,Analytics,Medium,Beginner,Business Analysis Fundamentals,5
