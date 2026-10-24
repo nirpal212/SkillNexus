@@ -834,7 +834,7 @@ function Onboarding() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/api/signup",
+        "https://skillnexus-backend-yfo1.onrender.com/api/signup",
         {
           method: "POST",
           headers: {
